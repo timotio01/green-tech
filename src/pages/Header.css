@@ -1,0 +1,27 @@
+.btnArea{
+    background-color: #8b8b8b;
+}
+.btnArea input{
+    display: inline-block;
+    
+
+}
+
+.pesquisa  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.pesquisa input {
+    height: 50px;
+    width: 400px;
+    border-radius: 35px;
+}
+.btnPesquisar input{
+    border-radius: 35px;
+}
+.headerImagem img{
+    height: 600px;
+    width: 100%;
+}
