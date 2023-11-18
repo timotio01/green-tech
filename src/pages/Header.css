@@ -1,5 +1,8 @@
+
+
 .btnArea{
     background-color: #8b8b8b;
+   
 }
 .btnArea input{
     display: inline-block;
@@ -11,17 +14,36 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    padding-top: 15px;
+    padding-bottom: 20px;
    
 }
 .pesquisa input {
     height: 50px;
-    width: 400px;
+    width: 650px;
     border-radius: 35px;
+    font-size: 25px;
+    padding-left: 40px;
 }
+
 .btnPesquisar input{
-    border-radius: 35px;
+    border-radius: 25px;
 }
 .headerImagem img{
-    height: 600px;
+    height: 400px;
     width: 100%;
+}
+button{
+    width: 170px;
+    height: 50px;
+    border-radius: 15px;
+    color: green;
+    margin-left: 50px;
+    font-size: 25px;
+}
+.icone{
+    margin-left: -640px;
+    color: green;
+    margin-right: 640px;
+    font-size: 25px;
 }
