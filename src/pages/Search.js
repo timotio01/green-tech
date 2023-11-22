@@ -1,7 +1,7 @@
 import React from 'react';
 import './Search.css';
 
-import {FaMobile, FaTv, } from 'react-icons/fa';
+import {FaMobile, FaTv,FaMobi, FaDesktop,  } from 'react-icons/fa';
 
 function Search(){
     return(
@@ -9,6 +9,7 @@ function Search(){
             <section className='iconeArea'>
             <FaMobile />
             <FaTv/>
+            <FaDesktop/>
             
             
             
