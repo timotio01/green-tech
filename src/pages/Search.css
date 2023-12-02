@@ -1,7 +1,15 @@
-main {
+.searchArea {
     height: 400px;
 }
-
-section {
-    height: auto ;
+.iconeArea{
+    align-items: center;
+    display: flex;
+    height: 150px;
+    justify-content: space-around; 
+    font-size: 50px;
+    color: green;
+    background-color: #8b8b8b;
+   
+    
 }
+

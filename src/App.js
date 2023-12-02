@@ -10,7 +10,9 @@ function App() {
     <>
    <Header/>
    <Search/>
-   <Formulario/>
+   <main>
+    
+   </main>
     </>
   
   );

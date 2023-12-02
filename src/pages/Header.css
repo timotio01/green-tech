@@ -2,6 +2,9 @@
 
 .btnArea{
     background-color: #8b8b8b;
+    width: 100%;
+    height: 470px;
+
    
 }
 .btnArea input{
@@ -30,7 +33,8 @@
     border-radius: 25px;
 }
 .headerImagem img{
-    height: 400px;
+    /* background-image: url(./../images/MicrosoftTeams-image\ \(2\).png); */
+    height: 385px;
     width: 100%;
 }
 button{

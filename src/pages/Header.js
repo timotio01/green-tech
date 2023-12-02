@@ -1,7 +1,7 @@
 import React from 'react';
 import './Header.css';
 import headerImage from './../images/MicrosoftTeams-image (2).png'
-import {FaSearch, fasearch} from 'react-icons/fa';
+import {FaDesktop, FaHdd, FaList, FaMobile, FaSearch, FaTv, fasearch } from 'react-icons/fa';
 
 function Header(){
     return(
@@ -17,6 +17,7 @@ function Header(){
             <div class="headerImagem">
                 <img src={headerImage}></img>
             </div>
+           
 
         </header>
         
